@@ -1,0 +1,5 @@
+ijson==3.0.4
+protobuf==3.11.4
+PyQt5==5.14.0
+PyQt5-sip==4.19.21
+six==1.14.0

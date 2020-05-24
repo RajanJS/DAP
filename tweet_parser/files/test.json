@@ -1,0 +1,6 @@
+{
+  "europe": [
+    {"name": "Paris", "type": "city"},
+    {"name": "Rhein", "type": "river"}
+  ]
+}
